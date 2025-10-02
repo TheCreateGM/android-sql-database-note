@@ -1,0 +1,7 @@
+toml
+[versions]
+appcompat = "1.6.1" # Or your desired version
+
+[libraries]
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+# Note: The alias here is "androidx-appcompat"
