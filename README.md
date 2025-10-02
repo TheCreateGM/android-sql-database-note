@@ -60,7 +60,3 @@ This Android app is part of the larger Haqote-Pad project, which aims to provide
 ## Contributing
 
 This project is part of an ongoing development effort for a comprehensive note-taking solution. Contributions and suggestions are welcome!
-
-## License
-
-[Add your license information here]
